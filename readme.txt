@@ -1,2 +1,2 @@
-git is very good
+git is a very good
 i love this git
